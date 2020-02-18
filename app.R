@@ -43,7 +43,7 @@ ui <- fluidPage(
                                                from = "New User",
                                                message = "Manual accessable here",
                                                icon = icon("question"),
-                                               href = "https://github.com/NeumannCarolin/Supply-Chain-with-Blockchain" 
+                                               href = "https://github.com/NeumannCarolin/Blockchain-Technology-based-Supply-Chain-Traceability-Concept-in-R-for-the-Automotive-Industry" 
                                              )
                                 ),
                                 dropdownMenu(type = "messages",
